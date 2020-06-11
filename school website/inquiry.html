@@ -1,0 +1,79 @@
+
+
+<!doctype html>
+<head>
+<style>
+#tab1
+{
+margin-top:60px;
+background:lightskyblue;
+}
+#tab2
+{
+margin-top:50px;
+background:lightskyblue;
+}
+caption
+{
+background:orange;
+}
+button{background:orange;}
+body{background-image:url(4.jpg);)
+</style>
+</head>
+<hmtl>
+<body>
+<center>
+<table id="tab1">
+<form>
+<caption>Feedback/suggestion</caption>
+<tr>
+<td>
+<textarea maxlength="200" rows="10" cols="50" ></textarea></td></tr>
+<tr>
+<td><button onclick="feedback()">submit</button>
+<script>
+function feedback() {
+    alert("Thank you for feedback/suggestion");
+}
+</script>
+</td>
+</tr>
+</form>
+</table>
+<p id="demo"></p>
+<table id="tab2">
+<caption>Enquiry form</caption>
+<form>
+<tr>
+<td>
+Enter name:
+</td>
+<td><input type="text">
+</td>
+</tr>
+<tr>
+<td>Contact:</td>
+<td><input type="number" >
+</td>
+<tr>
+<td>E-mail:</td>
+<td><input type="email" ></td>
+</tr>
+<tr>
+<td>
+Query:</td>
+<td><textarea maxlength="100" rows="10" cols="50" ></textarea></td></tr>
+<tr>
+<td><button type="button" onclick="enquiry()">submit</button>
+<script>
+function enquiry() {
+    alert("Your quiry is registered successfully.We will contact you shortly.");
+}
+</script>
+</tr></form>
+</table>
+</center>
+
+</body>
+</html>

@@ -1,0 +1,84 @@
+
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<title>Login</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+*{
+padding:0px;
+margin:0px;
+}
+.form
+{
+width:100%;
+height:35px;
+background:black;
+position:relative;
+z-index:1;
+}
+body{margin:0px;padding:0px;}
+.form ul li{
+
+list-style-type:none;
+float:left;
+width:200px;
+height:40px;line-height:35px;
+}
+.form ul li a{
+text-align:center;
+color:white;
+display:block;
+text-decoration:none;
+}
+.form ul li a:hover{background:green;}
+.form ul li ul{height:80px; }
+.form ul li ul li{display:none;background:black;}
+.form ul li:hover ul li{display:block;}
+</style>
+</head>
+
+<body>
+<div class="form">
+<ul>
+<li><a href="home.html" target="_blank"><i class="fa fa-home"></i>HOME</i></a></li>
+<li><a href="#"><i class="fa fa-file-photo-o">GALLERY</i></a>
+<ul>
+<li><a href="image.html" target="_blank">Image</a></li>
+<li><a href="image.html"target="_blank">Video</a></li>
+</ul>
+</li>
+<li><a href="#"><i class="fa fa-graduation-cap">ACADEMIC</i></a>
+<ul>
+<li><a href="#" target="_blank">Result</a></li>
+<li><a href="faculty.html" target="_blank">Faculty</a></li>
+<li><a href="facility.html"target="_blank">Facility</a></li>
+<li><a href="admissionform.html" target="_blank">Admission</a></li>
+<li><a href="feestructure.html" target="_blank">Fee structure</a></li>
+</ul>
+</li>
+<li><a href="about.html" target="_blank"><i class="fa fa-envelope">CONTACT</i></a></li>
+<li><a href="alumni.html"target="_blank"><i class="fa fa-graduation-cap">ALUMNI</i></a></li>
+<li><a href="fands.html" target="_blank"><i class="fa fa-edit">FEEDBACK/SUGGESTION</i></a></li>
+</ul>
+</div>
+<div class="loginbox">
+    <img src="avatar.png" class="avatar">
+        <h1>Login Here</h1>
+        <form>
+            <p>Username</p>
+            <input type="text" name="" placeholder="Enter Username">
+            <p>Password</p>
+            <input type="password" name="" placeholder="Enter Password">
+            <input type="submit" name="" value="Login">
+            <a href="#">Lost your password?</a><br>
+            <a href="#">Don't have an account?</a>
+        </form>
+        
+    </div>
+</body>
+
+
+</html>

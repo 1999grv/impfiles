@@ -1,0 +1,141 @@
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+*{
+padding:0px;
+margin:0px;
+}
+.form
+{
+margin:2px;
+width:100%;
+height:40px;
+background:black;
+position:absolute;
+z-index:1;
+}
+.form ul li{
+list-style-type:none;
+float:left;
+width:200px;
+height:30px;
+line-height:40px;
+}
+.form ul li a{
+text-align:center;
+color:white;
+display:block;
+text-decoration:none;
+}
+.form ul li a:hover{background:green;}
+.form ul li ul{height:100px; }
+.form ul li ul li{display:none;background:black;}
+.form ul li:hover ul li{display:inline-block;}
+
+table
+{
+cell-spacing:10px;
+margin:40px;
+border:1px solid black;
+background:lightblue;
+}
+body{margin:0px;font-size:20px;background-image:url(fac1.jpg);background-size:cover;}
+</style>
+</head>
+<body>
+<div class="form">
+<ul>
+<li><a href="home.html" target="_blank"><i class="fa fa-home"></i>HOME</i></a></li>
+<li><a href="#"><i class="fa fa-file-photo-o">GALLERY</i></a>
+<ul>
+<li><a href="image.html" target="_blank">Image</a></li>
+<li><a href="image.html"target="_blank">Video</a></li>
+</ul>
+</li>
+<li><a href="#"><i class="fa fa-graduation-cap">ACADEMIC</i></a>
+<ul>
+<li><a href="#" target="_blank">Result</a></li>
+<li><a href="faculty.html" target="_blank">Faculty</a></li>
+<li><a href="facility.html"target="_blank">Facility</a></li>
+<li><a href="admissionform.html" target="_blank">Admission</a></li>
+<li><a href="feestructure.html" target="_blank">Fee structure</a></li>
+</ul>
+</li>
+<li><a href="about.html"target="_blank"><i class="fa fa-envelope">CONTACT</i></a></li>
+<li><a href="#"><i class="fa fa-graduation-cap">ALUMNI</i></a></li>
+<li><a href="fands.html" target="_blank"><i class="fa fa-edit">FEEDBACK/SUGGESTION</i></a></li>
+</ul>
+</div><br><br><br><br><br><br>
+<CENTER><font size="20px" face="Arial black" color="white">ADMISSION FORM</font></CENTER>
+<center><table>
+<form>
+<tr>
+<td>Application Name:</td>
+<td><input type="text"></input></td>
+</tr>
+<tr>
+<td>Father's Name:</td>
+<td><input type="text"></input></td>
+</tr>
+<tr>
+<td>Mother's Name:</td>
+<td><input type="text"></input></td>
+</tr>
+<tr>
+<td>Date of birth:</td>
+<td><input type="date"></input></td>
+</tr>
+<tr>
+<td>Gender:</td>
+<td><input type="radio" value="male">Male</input></td>
+<td><input type="radio" value="female">Female</input></td>
+<td><input type="radio">other</input></td>
+</tr>
+<tr>
+<td>Contact:</td>
+<td><input type="number"></input></td>
+</tr>
+<tr>
+<td>E-mail ID:</td>
+<td><input type="text"></input></td>
+</tr>
+<tr>
+<td>Address:</td>
+<td><input type="text" placeholder="House no" required></input></td>
+<td><input type="text" placeholder="street"></input></td>
+</tr>
+<tr>
+<td>State:</td>
+<td>
+<select>
+<option>choose</option>
+<option>Delhi</option>
+<option>Kolkata</option>
+<option>UP</option>
+<option>BIHAR</option></select>
+</td>
+</tr>
+<tr>
+<td>course:</td>
+<td>
+<select>
+<option>Art</option>
+<option>Science</option>
+<option>Commerce</option>
+</select></td>
+</tr>
+<tr>
+<td><button>sumbit</button></td>
+<td><button>Reset</button></td>
+</form>
+</table>
+
+</center></body>
+</html>

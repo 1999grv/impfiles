@@ -1,0 +1,154 @@
+.one{
+    background-color:rgba(0,130,0,0.9);
+    height:35px;
+    text-align:center;
+    line-height: 35px;
+    color:white;
+    font-size:18px;
+  }
+
+.two{
+    background-color:rgba(0,170,80,1.0);
+    height:130px;
+    color:white;
+    font-size:20px;
+    font-weight:normal;
+    line-height: 40px;
+  }
+  div.way{
+      float:right;
+      margin-right:50px;
+      margin-top:90px;
+  }
+  
+  div.way a{
+      color:white;
+      text-decoration:none;
+  }
+  
+h2{
+    margin-left:75px;
+    font-size:34px;
+    font-family:helvetica;
+    font-weight:lighter;
+    float:left;
+  }
+  
+ .three{
+      margin-left:100px;
+      padding:2px;
+      border-width: 1px 1px 1px 1px;
+      border-color:gray;
+      border-style:solid;
+      margin-right:327px;
+  }
+  
+  .four{
+      padding:1px;
+  }
+ 
+  div p{
+      font-size:20px;
+  }
+  
+  form div input{
+    height:30px;
+    width:200px;
+    font-size:15px;
+  }
+  
+  form div select{
+    height:35px;
+    width:204px;
+    font-size:15px;
+  }
+  
+  .five{
+      float:right;
+      margin-right:100px;
+      border: 2px;
+      border-color:black;
+      border-style:solid;
+  }
+  
+  .six{
+      margin-top:50px;
+  }
+  .eight{
+      color:gray;
+      font-size:25px;
+  }
+  
+  ul{
+      font-size:20px;
+  }
+  .seven{
+      margin-left:100px;
+  }
+  
+  div.seven ul li a{
+      color:black;
+      text-decoration:none;
+  }
+  
+  .ten{
+      border-width:0.5px;
+      border-color:gray;
+      border-style:solid;
+      box-shadow: 0.5 0.5 orange;
+  }
+  
+  .eleven{
+      float:right;
+      width:30%;
+      margin:20px;
+  }
+  
+  .twelve{
+      font-size:29px;
+      color:green;
+      text-align:center;
+       font-weight:lighter;
+  }
+  
+  .thirteen{
+      font-size:20px;
+      color:green;
+  }
+  
+  .fourteen{
+      display: block;
+      width:100%;
+  }
+  
+  .fifteen{
+      border-top-width: 1px;
+      border-top-color: gray;
+      border-top-style: solid;
+      height: 35px;
+      line-height:35px;
+  }
+  
+  .sixteen{
+      text-align:center;
+  }
+  
+  .seventeen{
+      height: 80px;
+      color:blue;
+      background-color:rgba(32,32,32,1.0);
+      margin-top: 400px;
+      line-height:80px;
+      text-align:center;
+  }
+  
+  .gray{
+      color:gray;
+  }
+  
+  div.fifteen li a{
+      color:black;
+      text-decoration:none;
+  }
+  
+  

@@ -1,0 +1,172 @@
+.one{
+    background-color:rgba(0,130,0,0.9);
+    height:35px;
+    text-align:center;
+    line-height: 35px;
+    color:white;
+    font-size:18px;
+  }
+
+.two{
+    background-color:rgba(0,170,80,1.0);
+    height:110px;
+    color:white;
+    font-size:20px;
+    font-weight:normal;
+    line-height: 80px;
+  }
+
+.three{
+    margin-left:75px;
+    font-size:34px;
+    font-family:helvetica;
+    font-weight:lighter;
+    display:inline;
+  }
+  
+   .way{
+      font-size:15px;
+      display:inline;
+      float:right;
+      margin-right:100px;
+      margin-top:50px;
+  }
+
+  div.way a{
+      color:white;
+      text-decoration:none;
+  }
+  .four{
+      padding:1px;
+  }
+  
+  .five{
+      float:right;
+      margin-right:80px;
+      border: 2px;
+      border-color:black;
+      border-style:solid;
+  }
+  
+  form div input{
+    height:30px;
+    width:200px;
+    font-size:15px;
+  }
+  
+  form div select{
+    height:35px;
+    width:204px;
+    font-size:15px;
+  }
+  
+  .six{
+      margin-top:50px;
+  }
+  
+  .seven{
+      margin-left:100px;
+      padding: 2px;
+      border: 1px;
+      border-style: solid;
+      border-color: gray;
+      float: left;
+  }
+  
+  .eight{
+      float:left;
+      margin-left:100px;
+      margin-top:25px;
+      font-family:helvetica;
+      margin-right:290px;
+      
+  }
+  
+  .nine{
+      font-size:30px;
+      color:green;
+      font-weight:lighter;
+  }
+  
+  .ten{
+      font-weight: lighter;
+      color:gray;
+      font-size:18px;
+      line-height: 30px;
+  }
+  
+  .eleven{
+      font-size:25px;
+      color:green;
+      font-weight:lighter;
+  }
+  
+  .twelve{
+      border-width:1px;
+      border-color:gray;
+      border-style:solid;
+      margin-top:1800px;
+  }
+  
+  .thirteen{
+      float:right;
+      width:30%;
+      margin:20px;
+  }
+  
+  .fourteen{
+      font-size:29px;
+      color:green;
+      text-align:center;
+       font-weight:lighter;
+  }
+  
+  .fifteen{
+      font-size:20px;
+      color:green;
+  }
+  
+  .sixteen{
+      border-top-width: 1px;
+      border-top-color: gray;
+      border-top-style: solid;
+      height: 35px;
+      line-height:35px;
+  }
+  
+  ul{
+      font-size:20px;
+  }
+  
+  .seventeen{
+      text-align:center;
+  }
+  
+  .eighteen{
+      display: block;
+      width:100%;
+  }
+  
+  .nineteen{
+      height: 80px;
+      color:blue;
+      background-color:rgba(32,32,32,1.0);
+      margin-top: 400px;
+      line-height:80px;
+      text-align:center;
+  }
+  
+  .gray{
+      color:gray;
+  }
+  
+  .twenty{
+       font-weight: lighter;
+      color:gray;
+      font-size:18px;
+      line-height: 30px;
+  }
+  div.sixteen li a{
+      color:black;
+      text-decoration:none;
+  }

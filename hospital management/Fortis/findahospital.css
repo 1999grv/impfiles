@@ -1,0 +1,190 @@
+  .one{
+    background-color:rgba(0,130,0,0.9);
+    height:35px;
+    text-align:center;
+    line-height: 35px;
+    color:white;
+    font-size:18px;
+  }
+  
+  .two{
+    background-color:rgba(0,170,80,1.0);
+    height:130px;
+    color:white;
+    font-size:20px;
+    font-weight:normal;
+    line-height: 40px;
+  }
+  
+  .way{
+     float:right;
+     margin-right:50px;
+     margin-top:80px;
+      
+  }
+  
+  p.way a{
+      color:white;
+      text-decoration:none;
+  }
+  
+  h2{
+    margin-left:75px;
+    font-size:34px;
+    font-family:helvetica;
+    font-weight:lighter;
+  }
+  
+  .h2{
+      float:left;
+  }
+  
+  .four{
+      padding:1px;
+  }
+  
+  form div input{
+    height:30px;
+    width:200px;
+    font-size:15px;
+  }
+  
+  form div select{
+    height:35px;
+    width:204px;
+    font-size:15px;
+  }
+  
+  .five{
+      float:right;
+      margin-right:100px;
+      border: 2px;
+      border-color:black;
+      border-style:solid;
+  }
+  
+  .six{
+      margin-top:50px;
+      margin-left: 100px;
+  }
+  
+  .three{
+      padding:2px;
+      margin-right:350px;
+      width: 75%;
+    
+  }
+  .disp{
+     width:15%;
+     padding:1px;
+     border-width:1px;
+     border-color:gray;
+     border-style:solid;
+  }
+  
+  .para{
+      float:right;
+      width:80%;
+      font-size:18px;
+      margin-top:0px;
+      color:gray;
+  }
+  .seven{
+      
+  }
+  .eight{
+      color:rgba(0,174,0,1.0);
+      font-size:25px;
+      font-family:helvetica;
+       font-weight:lighter;
+  }
+  
+  .nine{
+     font-size:18px;
+     color:gray;
+    }
+  
+    .ten{
+        margin-left:100px;
+        margin-top:30px;
+        
+    }
+  
+    .eleven{
+        display:inline;
+        
+    }
+    
+    .twelve{
+        display:inline;
+        margin-left:100px;
+        
+    }
+  
+  .thirteen{
+      border-width:0.5px;
+      border-color:gray;
+      border-style:solid;
+  }
+  
+  .fourteen{
+      float:right;
+      width:30%;
+      margin:20px;
+  }
+  
+  .fifteen{
+      font-size:29px;
+      color:green;
+      text-align:center;
+       font-weight:lighter;
+  }
+ 
+  .sixteen{
+      font-size:20px;
+      color:green;
+  }
+  
+  
+   .seventeen{
+      border-top-width: 1px;
+      border-top-color: gray;
+      border-top-style: solid;
+      height: 35px;
+      line-height:35px;
+  }
+  
+  .eighteen{
+      text-align:center;
+  }
+  
+   .nineeen{
+      display: block;
+      width:100%;
+  }
+  
+  .twenty{
+      height: 80px;
+      color:blue;
+      background-color:rgba(32,32,32,1.0);
+      margin-top: 400px;
+      line-height:80px;
+      text-align:center;
+  }
+  
+  .gray{
+      color:gray;
+  }
+  
+  ul{
+      font-size:20px;
+  }
+  
+  div.seventeen li a{
+      color:black;
+      text-decoration:none;
+  }
+  
+  
+  
+  

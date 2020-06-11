@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>page title</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="nav-wrapper">
+                <div class="left-side">
+                        <div class="nav-link-wrapper">
+                                <a href="index.html">Home</a>
+                        </div>
+                        <div class="nav-link-wrapper">
+                                <a href="about.html">About</a>
+                        </div>
+                        <div class="nav-link-wrapper">
+                                <a href="https://uims.cuchd.in/UIMS/Login.aspx">CUIMS</a>
+                        </div>
+                </div>
+                <div class="right side">
+                    <div class="site-name">
+                            <div><h2>ONLINE VOTING SYSTEM</h2></div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="content">
+                <div class="portfolio">
+                    <div class="portfolio2">
+                        <div class="portfolio-imgbg" style="background-image:url(images/portfolio.jpg)">
+                        </div>
+                        <div class="imgtext-wrapper">
+                                <div class="logo-wrapper">
+                                        <img src="images/registration.jpg" alt="" style="height: 330px;width: 330px;">
+                                </div>
+                                <div class="subtitle">
+                                        i contain the registration form
+                                </div>
+                        </div>
+                    </div>
+                    <div class="portfolio2">
+                            <div class="portfolio-imgbg" style="background-image:url(images/portfolio.jpg)">
+                            </div>
+                            <div class="imgtext-wrapper">
+                                    <div class="logo-wrapper">
+                                            <img src="images/voting center.jpg" alt="" style="height: 330px;width: 330px;">
+                                    </div>
+                                    <div class="subtitle">
+                                            i contain the list of voting centre's
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="portfolio2">
+                                <div class="portfolio-imgbg" style="background-image:url(images/portfolio.jpg)">
+                                </div>
+                                <div class="imgtext-wrapper">
+                                        <div class="logo-wrapper">
+                                                <img src="images/voter's list.jpg" alt="" style="height: 330px;width: 330px;">
+                                        </div>
+                                        <div class="subtitle">
+                                                i contain the list of voter's
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="portfolio2">
+                                    <div class="portfolio-imgbg" style="background-image:url(images/portfolio.jpg)">
+                                    </div>
+                                    <div class="imgtext-wrapper">
+                                            <div class="logo-wrapper">
+                                                    <img src="images/voting schedules.jpg" alt="" style="height: 330px;width: 330px;">
+                                            </div>
+                                            <div class="subtitle">
+                                                    i contain the scheduling of voting
+                                            </div>
+                                    </div>
+                                </div>
+                                <div class="portfolio2">
+                                        <div class="portfolio-imgbg" style="background-image:url(images/portfolio.jpg)">
+                                        </div>
+                                        <div class="imgtext-wrapper">
+                                                <div class="logo-wrapper">
+                                                        <img src="images/representatives.jpg" alt="" style="height: 330px;width: 330px;">
+                                                </div>
+                                                <div class="subtitle">
+                                                        i contain the list of the representative's region wise
+                                                </div>
+                                        </div>
+                                    </div>
+                                    <div class="portfolio2">
+                                            <div class="portfolio-imgbg" style="background-image:url(images/portfolio.jpg)">
+                                            </div>
+                                            <div class="imgtext-wrapper">
+                                                    <div class="logo-wrapper">
+                                                            <img src="images/unkown.jpg" alt="" style="height: 330px;width: 330px;">
+                                                    </div>
+                                                    <div class="subtitle">
+                                                            i am unknown
+                                                    </div>
+                                            </div>
+                                        </div>
+                </div>
+
+            </div>
+    </body>
+</html>

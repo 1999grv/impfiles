@@ -1,0 +1,191 @@
+.one{
+    background-color:rgba(0,130,0,0.9);
+    height:35px;
+    text-align:center;
+    line-height: 35px;
+    color:white;
+    font-size:18px;
+  }
+
+  .move{
+      color:green;
+      font-size:20px;
+  }
+  
+  .two{
+      margin-left:180px;
+      margin-right:180px;
+      width:940px;
+      height:440px;
+      text-align:center;
+      background-color:rgba(0,130,0,0.9);
+      line-height: 830px;
+  }  
+  
+  .four{
+      background-color:rgba(0,147,0,0.7);
+      width:250px;
+      height:200px;
+      float:left;
+      margin-left:60px;
+      margin-right:60px;
+  }
+  
+  div.four img{
+      margin-left: 90px;
+      margin-top:30px;
+  }
+  
+  div.four p{
+      color:white;
+      font-size:20px;
+      margin-left:35px;
+      margin-top:45px;
+  }
+  div.four p a{
+      color:white;
+      text-decoration:none;
+  }
+  
+  .five{
+      margin-left:90px;
+      
+  }
+  
+  .six{
+      margin-left:100px;
+      margin-right:100px;
+      float:left;
+      margin-top:80px;
+  }
+  
+  .seven{
+      width:550px;
+      float:left;
+      margin-right:20px;
+  }
+  
+  .eight{
+      width:550px;
+      float:right;
+  }
+  
+  div.six div.seven img{
+      float:left;
+  }
+  
+  div.six div.seven h2{
+      color:green;
+      font-family:helvetica;
+      font-size:30px;
+      font-weight:lighter;
+      margin-left:170px;
+      margin-top:0px;
+  }
+  div.six div.seven h2 a{
+      color:green;
+      text-decoration: none;
+  }
+  div.six div.seven p{
+      color:gray;
+      font-family:helvetica;
+      font-size:18px;
+      font-weight:lighter;
+      margin-left:170px;
+      
+  }
+  
+  
+   div.six div.eight img{
+      float:left;
+  }
+  
+  div.six div.eight h2{
+      color:green;
+      font-family:helvetica;
+      font-size:30px;
+      font-weight:lighter;
+      margin-left:170px;
+      margin-top:0px;
+      text-decoration: none;
+  }
+  
+  div.six div.eight h2 a{
+      color:green;
+      text-decoration: none;
+  }
+  
+  div.six div.eight p{
+      color:gray;
+      font-family:helvetica;
+      font-size:18px;
+      font-weight:lighter;
+      margin-left:170px;
+      
+  }
+  .fifteen{
+      border-width:0.5px;
+      border-color:gray;
+      border-style:solid;
+     margin-top:1000px;
+  }
+  
+  
+  .sixteen{
+      float:right;
+      width:30%;
+      margin:20px;
+  }
+  
+  .seventeen{
+      font-size:29px;
+      color:green;
+      text-align:center;
+       font-weight:lighter;
+  }
+  
+  .eighteen{
+      font-size:20px;
+      color:green;
+  }
+  
+  .nineteen{
+      border-top-width: 1px;
+      border-top-color: gray;
+      border-top-style: solid;
+      height: 35px;
+      line-height:35px;
+  }
+  
+  ul{
+      font-size:20px;
+  }
+
+  .twenty{
+      text-align:center;
+  }
+  
+   .twentyone{
+      display: block;
+      width:100%;
+  }
+  
+  .twentytwo{
+      height: 80px;
+      color:blue;
+      background-color:rgba(32,32,32,1.0);
+      margin-top: 400px;
+      line-height:80px;
+      text-align:center;
+  }
+  
+  .gray{
+      color:gray;
+  }
+  
+  div.nineteen li a{
+      color:black;
+      text-decoration:none;
+  }
+  
+  
